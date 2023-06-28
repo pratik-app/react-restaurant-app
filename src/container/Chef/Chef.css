@@ -1,29 +1,3 @@
-.app__bg{
-
-}
-
-.app__wrapper{
-
-}
-
-.section__padding{
-
-}
-.app__wrapper_img{
-
-}
-
-.app__wrapper_img-reverse{
-
-}
-.app__wrapper_info
-{
-
-}
-.headtext__cormorant{
-
-}
-
 .app__chef-content{
 
 display: flex;
@@ -44,8 +18,9 @@ align-items: flex-end;
 
 .app__chef-content_quote img{
 
-    width: 100%;
-    margin-top: 3rem;
+    width: 47px;
+    height: 40px;
+    margin: 0 1rem 1rem 0;
 }
 .app__chef-sign{
 
