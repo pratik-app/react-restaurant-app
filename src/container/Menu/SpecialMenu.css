@@ -90,7 +90,7 @@
 }
 @media screen and (max-width: 650px)
 {
-    .app__specialMenu_menu_img img{
+    .app__specialMenu-menu_img{
 
     
         width: 100%;
